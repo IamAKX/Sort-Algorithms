@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5375032-ad3d-4027-9984-e4e22424d0fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/BubbleSortHistogram$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/BubbleSortHistogram$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/BubbleSortHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/BubbleSortHistogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/InsertionSortHistogram$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/InsertionSortHistogram$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/InsertionSortHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/InsertionSortHistogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/META-INF/Histogram.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSortHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSortHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InsertionSortHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionSortHistogram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="21" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="831" />
+  </component>
+  <component name="ProjectId" id="1gMx0LA2JTjYz9A93s1kogRPG9o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BubbleSortHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSortHistogram" />
+      <module name="Histogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSortHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSortHistogram" />
+      <module name="Histogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFX_Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX_Histogram" />
+      <module name="Histogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Histogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSortHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSortHistogram" />
+      <module name="Histogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SelectionSortHistogram" />
+        <item itemvalue="Application.BubbleSortHistogram" />
+        <item itemvalue="Application.InsertionSortHistogram" />
+        <item itemvalue="Application.JavaFX_Histogram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5375032-ad3d-4027-9984-e4e22424d0fe" name="Default Changelist" comment="" />
+      <created>1569532423505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569532423505</updated>
+      <workItem from="1597938045947" duration="1922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1597940139190">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597940139190" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1597940139189">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597940139189" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1597940139188">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597940139188" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1597940139190">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597940139190" />
+  </component>
+</project>
