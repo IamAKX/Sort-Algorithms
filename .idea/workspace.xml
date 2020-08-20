@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5375032-ad3d-4027-9984-e4e22424d0fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/BubbleSortHistogram$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/BubbleSortHistogram$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/BubbleSortHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/BubbleSortHistogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/InsertionSortHistogram$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/InsertionSortHistogram$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/InsertionSortHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/InsertionSortHistogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/META-INF/Histogram.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/Main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Histogram/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSortHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSortHistogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InsertionSortHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionSortHistogram.java" afterDir="false" />
-    </list>
+    <list default="true" id="f5375032-ad3d-4027-9984-e4e22424d0fe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569532423505</updated>
       <workItem from="1597938045947" duration="1922000" />
+      <workItem from="1597948442008" duration="317000" />
     </task>
     <servers />
   </component>
